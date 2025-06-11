@@ -1,0 +1,32 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary and backup files
+*.tmp
+*.bak
+*~
+~$*
+
+# Office temp/lock files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Editor/IDE settings
+.vscode/
+.idea/
+
+# Git backup
+*.swp
+*.swo
+
+# Ignore node_modules if accidentally included
+node_modules/
+
+# Logs and output
+*.log
